@@ -1,7 +1,6 @@
 # gani
 
-**Simple Countdown Timer**
-
+Simple Countdown Timer
 <!DOCTYPE html>
 <html lang="en">
 <head>
